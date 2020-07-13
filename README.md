@@ -1,2 +1,2 @@
 ## Pugstagram
-https://appsvelte-pugstagram.netlify.app/
+https://priceless-pare-762443.netlify.app/
