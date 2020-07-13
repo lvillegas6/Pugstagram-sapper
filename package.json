@@ -1,0 +1,28 @@
+{
+  "name": "pugstagram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "sapper dev",
+    "build": "sapper build",
+    "export": "sapper export",
+    "start": "node __sapper__/build"
+  },
+  "author": "Luis Villegas <luisvillegassanchez6@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "sapper": "^0.27.16",
+    "svelte": "^3.23.2",
+    "svelte-loader": "^2.13.6",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "dependencies": {
+    "compression": "^1.7.4",
+    "md5": "^2.2.1",
+    "polka": "^0.5.2",
+    "sirv": "^1.0.1"
+  }
+}
